@@ -4,8 +4,9 @@ main.Accio#Job{
 	background-color:black;
 }
 p.hello-accio-job{
+	color:white;
 	margin-left:32px;
 	padding:10px;
-	color:white;
+	
 }
 /* Your CSS Code here. */
